@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">otpverification</string>
+    <string name="welcome_to_the_dashboard">Welcome to the Dashboard</string>
+    <string name="logout">Logout</string>
+    <string name="enter_your_phone_no">enter your phone no</string>
+    <string name="phone_no">phone no</string>
+    <string name="verify">verify</string>
+    <string name="otp">otp</string>
+    <string name="generate_otp">generate otp</string>
+</resources>
